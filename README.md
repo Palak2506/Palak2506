@@ -1,8 +1,8 @@
-Hi there, I'm Palak Dwivedi 👋
+
 
 
 <p align="center">
-  <em>Final Year B.Tech | Computer Science & Engineering | AWS Certified Cloud Practitioner</em>
+  <em>Hi there, I'm Palak Dwivedi 👋</em>
 </p>
 
 ---
