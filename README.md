@@ -11,7 +11,8 @@
 
 - 🎓 Final year student at **VIT Bhopal University**
 - 🛠️ **Specialization:** Cloud Computing & Automation
-- 💡 Selected as 100 Days of Code Challenger for Social Summer of Code
+- 💡  100 Days of Code Challenger for Social Summer of Code
+- 💡  Selected for  Social Summer of Code
 - ☁️ **Certified AWS Cloud Practitioner**
 - 👩‍💻 Passionate about building impactful products and learning new technologies
 
