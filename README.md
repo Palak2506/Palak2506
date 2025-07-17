@@ -9,36 +9,35 @@
   <em>Final Year B.Tech | Computer Science & Engineering | Cloud Computing & Automation Specialist</em>
 </p>
 
+---
 
+## 🚀 About Me
 
-# 👋 Hi, I'm Palak Dwivedi
+- 🎓 **Final year** student at **VIT Bhopal University**  
+- 🛠️ **Specialization:** Cloud Computing & Automation  
+- 💻 **Tech Stack:** MERN, Java (DSA), SQL, MongoDB, AWS, GCP  
+- 🎯 **UI/UX:** Focused on enhancing user interfaces  
+- 🔎 **Research:** Market research for tech companies  
+- 🤖 **ML:** Familiar with core ML algorithms
 
-🎓 I am a final year B.Tech student at VIT Bhopal University, majoring in Computer Science and Engineering with a specialization in Cloud Computing and Automation.
+## 🌟 Favorite Projects
 
-## 🚀 Technical Skills
+- Community Resource Locator
+- ML-Algorithms
 
-- **Full Stack Development**: Proficient in MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **Programming**: JAVA (Data Structures & Algorithms), JavaScript
-- **Databases**: SQL, MongoDB
-- **Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP)
-- **UI/UX**: Focused on enhancing user interfaces for better user experiences
-- **Research**: Conducting market research for tech companies
-- **Machine Learning**: Familiar with core ML algorithms and exploring their practical applications
+## 🏸 Hobbies & Interests
 
-## 🌟 Favorite Repositories
+- Playing badminton 🏸  
+- Improving and customizing projects  
+- Contributing to open source 🌍
 
-- **Community Resource Locator**
-- **ML-Algorithms**
+## 📫 Connect with Me
 
-## 🏸 Personal Interests
+<p align="center">
+  <a href="https://www.linkedin.com/in/palak-dwivedi1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
 
-- Playing badminton
-- Making impactful changes in projects
-- Actively contributing to open source communities
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/palak-dwivedi1/)
+---
 
 ## 🛡️ Badges
 
@@ -55,9 +54,6 @@
 I am a passionate Computer Science engineer with hands-on experience in full stack web development and cloud computing, eager to contribute to innovative projects. I enjoy solving complex problems with technology, collaborating with developer communities, and continuously learning new skills. Outside of academics and coding, I love playing badminton and giving back to open source through meaningful contributions.
 
 ---
-
-Feel free to connect with me for collaborations, opportunities, or just to talk tech!
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Palak2506&style=flat-square&color=blue" alt="Profile views"/>
