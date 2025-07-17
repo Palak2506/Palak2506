@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**Palak2506/Palak2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Palak Dwivedi
 
-Here are some ideas to get you started:
+🎓 I am a final year B.Tech student at VIT Bhopal University, majoring in Computer Science and Engineering with a specialization in Cloud Computing and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+
+- **Full Stack Development**: Proficient in MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Programming**: JAVA (Data Structures & Algorithms), JavaScript
+- **Databases**: SQL, MongoDB
+- **Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+- **UI/UX**: Focused on enhancing user interfaces for better user experiences
+- **Research**: Conducting market research for tech companies
+- **Machine Learning**: Familiar with core ML algorithms and exploring their practical applications
+
+## 🌟 Favorite Repositories
+
+- **Community Resource Locator**
+- **ML-Algorithms**
+
+## 🏸 Personal Interests
+
+- Playing badminton
+- Making impactful changes in projects
+- Actively contributing to open source communities
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/palak-dwivedi1/)
+
+## 🛡️ Badges
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud-blue?logo=google-cloud&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-Stack-green?logo=react)
+![Java](https://img.shields.io/badge/Java-Programming-red?logo=java&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?logo=github)
+
+---
+
+## 📜 Short Bio
+
+I am a passionate Computer Science engineer with hands-on experience in full stack web development and cloud computing, eager to contribute to innovative projects. I enjoy solving complex problems with technology, collaborating with developer communities, and continuously learning new skills. Outside of academics and coding, I love playing badminton and giving back to open source through meaningful contributions.
+
+---
+
+Feel free to connect with me for collaborations, opportunities, or just to talk tech!
