@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://github.com/Palak2506.png" width="150" alt="Palak Dwivedi's avatar" style="border-radius:50%;">
+</p>
+
+<h1 align="center">Hi there, I'm <span style="color:#e67e22;">Palak Dwivedi</span> 👋</h1>
+<p align="center">
+  <em>Final Year B.Tech | Computer Science & Engineering | Cloud Computing & Automation Specialist</em>
+</p>
+
+
 # 👋 Hi, I'm Palak Dwivedi
 
 🎓 I am a final year B.Tech student at VIT Bhopal University, majoring in Computer Science and Engineering with a specialization in Cloud Computing and Automation.
@@ -46,3 +56,8 @@ I am a passionate Computer Science engineer with hands-on experience in full sta
 ---
 
 Feel free to connect with me for collaborations, opportunities, or just to talk tech!
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Palak2506&style=flat-square&color=blue" alt="Profile views"/>
+</p>
