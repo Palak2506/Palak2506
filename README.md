@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <p align="center">
-  <img src="https://github.com/Palak2506.png" width="150" alt="Palak Dwivedi's avatar" style="border-radius:50%;">
+  
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#e67e22;">Palak Dwivedi</span> 👋</h1>
