@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=440&lines=Hi+there,+I'm+Palak+Dwivedi+👋" alt="Typing SVG" />
-</p>
+Hi there, I'm Palak Dwivedi 👋
+
 
 <p align="center">
   <em>Final Year B.Tech | Computer Science & Engineering | AWS Certified Cloud Practitioner</em>
