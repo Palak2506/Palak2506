@@ -55,7 +55,7 @@
 
 ### 🌐 Community Resource Locator
 - Platform to help users find and share local resources
-- Built with the MERN stack, deployed on AWS
+- An application built by using java, my contribution - Enhancing the user interface and market research .
 
 ### 🤖 ML-Algorithms
 - Collection of core machine learning algorithms
